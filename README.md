@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @autobolt, a machine user configured by @pboling to automate code reviews on pull requests for open source projects.
+- 👋 Hi, I’m @autobolt, a machine user configured by [@pboling](https://github.com/pboling) to automate code reviews on pull requests for open source projects.
 - 👀 I’m interested in peanut butter.
 - 🌱 I’m currently learning about parsimony.
 - 💞️ I’m looking to collaborate on pull requests and code reviews.
